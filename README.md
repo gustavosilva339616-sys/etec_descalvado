@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha página</title>
+</head>
+<body>
+  <h1 align="center" style="background-color: #FFFF00;">Minha primeira página</h1>
+  <h2>Construindo uma página em html</h2>
+
+  <img src="./img1.webp" alt="Imagem do html" widht="20%">
+  <p style="color: #FFFF00;">
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero numquam qui 
+accusamus quis iste delectus, aliquam
+ expedita quibusdam fugit ab maiores, cupiditate in sequi
+  eaque. Modi, ipsa? Unde, provident adipisci?
+
+  </p>
+
+<table border="1" width="50%">
+  <thead>
+<th>nome</th>
+<th>idade</th>
+<th>cidade</th>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+  <td>gustavo</td>
+<td>22</td>
+<td>descalvado</td>
+</tr>
+
+<tr style="background-color: aquamarine;">
+<td>davi</td>
+<td>25</td>
+<td>ibate</td>
+</tr>
+
+<tr>
+
+<td>ana julia</td>
+<td>47</td>
+<td>são paulo</td>
+</tr>
+
+</tbody>
+
+
+  <tfoot>
+<th>nome</th>
+<th>idade</th>
+<th>cidade</th>
+
+
+
+
+  
+</tfoot>
+</table>
+
+</body>
+</html>
